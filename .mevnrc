@@ -1,0 +1,8 @@
+{
+  "name": "freshchat",
+  "template": "Default",
+  "isConfigured": {
+    "client": false,
+    "server": false
+  }
+}
